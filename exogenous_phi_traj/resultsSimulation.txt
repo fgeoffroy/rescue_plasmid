@@ -1,0 +1,1 @@
+"Beta" "Phi" "S" "Cost" "SegregationLoss" "Alpha" "N0" "S0" "TimeEst" "NSim" "pESimulation"

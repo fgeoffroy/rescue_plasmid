@@ -1,4 +1,4 @@
-# Code for the paper "Limits to adaptation on conjugative plasmids"
+# Code for the paper "Limits to evolutionary rescue by conjugative plasmids"
 
 The C++ scripts require functions from the [GNU Scientific Library](https://www.gnu.org/software/gsl/)
 
